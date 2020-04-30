@@ -1,1 +1,3 @@
 print('hi this is the first example')
+print("second")
+print("third")
